@@ -1,0 +1,33 @@
+.dashboard {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .status,
+  .battery,
+  .logs {
+    margin-bottom: 20px;
+  }
+  
+  .logs ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .interactions button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .interactions button:hover {
+    background-color: #0056b3;
+  }
+  
